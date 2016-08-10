@@ -4,5 +4,6 @@ void main()
 int a,b,c;
 a=5;b=9;
 c=a+b;
-printf("%d", c);
+printf("%d\n", c);
+printf("%d",a-b);
 }
