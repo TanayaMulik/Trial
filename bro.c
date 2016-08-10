@@ -1,9 +1,8 @@
 #include<stdio.h>
 void main()
 {
-int a,b,c;
+int a,b;
 a=5;b=9;
-c=a+b;
-printf("%d\n", c);
+printf("%d\n", a+b);
 printf("%d",a-b);
 }
